@@ -78,3 +78,35 @@ h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+
+#username {
+    font-family: 'Lobster', cursive;
+}
+
+#logout {
+    display: inline;
+    
+}
+
+.right {
+    float: right;
+}
+
+.btn-logout {
+    padding: 0;
+    border: none;
+    background-color: inherit;
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    cursor: pointer;
+}
+
+
+
+/* small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+} */
