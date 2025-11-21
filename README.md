@@ -13,7 +13,9 @@
 - View Blog Posts
 - User Authentication (Basic)
 - Basic Styling / Template
-- Comment system (Basic)
+- Add comment
+- View comments
+- Approve and disapprove (remove) comment
 
 ## Installation
 ### 1. Clone the Repository
